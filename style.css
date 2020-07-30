@@ -41,7 +41,7 @@ h5 {
   list-style-type: none;
 }
 
-li {
+#nav-bar li {
   display: inline;
 }
 
@@ -67,6 +67,7 @@ a {
   width: 40%;
   padding: 7px;
 }
+
 ul {
   list-style: none;
   padding: 0;
